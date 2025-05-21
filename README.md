@@ -1,4 +1,8 @@
-# 🎓 find-comp9001-note
+# 🎓 Campus Treasure Hunt
+
+<p align="center">
+  <img src="./assets/cover.png" alt="Campus Treasure Hunt Cover" width="600"/>
+</p>
 
 *A text-based Python adventure game set on the University of Sydney campus.*
 
